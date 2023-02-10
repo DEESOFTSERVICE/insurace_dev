@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/rzlh1tepbij2/public_html/hiregigolo.com/
+    - /bin/cp *
